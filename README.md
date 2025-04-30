@@ -1,1 +1,1 @@
-reddit-clone-app
+The configuration process is covered in the README.md file of Reddit-clone-CI.
